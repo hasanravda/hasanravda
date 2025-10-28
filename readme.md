@@ -29,23 +29,6 @@
 
 **Tools & Platforms:**  
 > Git • GitHub • Android Studio • VS Code • Figma • Postman  
-
----
-
-## 🚀 Projects
-
-### 🧠 Smart Email Generator  
-> AI-powered email response generator built with **Spring Boot** and **Google Gemini API**, integrated as a Gmail extension.
-
-### 📱 Meme Sharing App  
-> Kotlin-based Android app using **Reddit API** & **Kaggle datasets** for categorized meme feeds.
-
-### 🛍️ Flutter E-commerce App  
-> Built using **Flutter + Firebase**, featuring product management, Firestore integration & responsive web/mobile UI.
-
-### 🎓 Moodle-Based LMS  
-> Developed an e-learning platform using **Moodle LMS** with custom online testing & module creation.
-
 ---
 
 ## 🏢 Work Experience
