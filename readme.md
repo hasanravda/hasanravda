@@ -31,24 +31,6 @@
 > Git • GitHub • Android Studio • VS Code • Figma • Postman  
 ---
 
-## 🏢 Work Experience
-
-**Flutter Developer Intern** — *SimpleMinds Technologies, Ahmedabad*  
-_June 2024_  
-> Worked on a live project using Flutter, creating intuitive user interfaces and ensuring seamless UX.
-
-**Fullstack Developer Intern** — *SimpleMinds Technologies, Ahmedabad*  
-_July 2023 - August 2023_  
-> Contributed to both frontend and backend of a web project using **Vue.js** and **Laravel**.
-
-**Moodle Developer Intern** — *Treesha Infotech, Ahmedabad*  
-_September 2022_  
-> Built online learning modules and automated assessments using **Moodle LMS**.
-
-
-
----
-
 ## 📫 Let's Connect!
 
 <p align="center">
