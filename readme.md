@@ -25,7 +25,7 @@
 > Spring Boot • Node.js • Express.js • Laravel • Vue.js • MySQL • MongoDB  
 
 **Languages:**  
-> Dart • Java • Kotlin • Python • JavaScript • C • C++  
+> Dart • Java • Kotlin • Python • JavaScript • C • C++ • PHP  
 
 **Tools & Platforms:**  
 > Git • GitHub • Android Studio • VS Code • Figma • Postman  
