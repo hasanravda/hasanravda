@@ -63,19 +63,6 @@ LLM powered adaptive learning platform with quizzes, personalization, and anti c
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HasanRavda&show_icons=true&theme=tokyonight&cache_seconds=1800" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HasanRavda&theme=tokyonight&cache_seconds=1800" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanRavda&layout=compact&theme=tokyonight&hide=html&cache_seconds=1800"/>
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
