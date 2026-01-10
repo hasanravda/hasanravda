@@ -58,7 +58,8 @@ Flutter based QR attendance system with real time validation, offline support, a
 🔗 https://github.com/HasanRavda/QR-Smart-Attendance  
 
 ### 🔹 AI Based Learning Platform
-LLM powered adaptive learning platform with quizzes, personalization, and anti cheat mechanisms  
+LLM powered adaptive learning platform with quizzes, personalization, and anti cheat mechanisms   
+🔗 https://github.com/hasanravda/AI-Based-Learning-Platform
 
 ---
 
