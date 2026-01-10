@@ -54,7 +54,7 @@ I build scalable mobile apps and backend systems with a strong focus on clean ar
 ## 🚀 Featured Projects
 
 ### 🔹 Smart QR Based Attendance System
-Flutter based QR attendance system with real time validation, offline support, and Firebase backend  
+Flutter based QR attendance system with real time validation, and Firebase backend  
 🔗 https://github.com/HasanRavda/QR-Smart-Attendance  
 
 ### 🔹 AI Based Learning Platform
