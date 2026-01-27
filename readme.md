@@ -24,7 +24,6 @@
 
 ## ⚙️ Tech Stack
 
-<<<<<<< HEAD
 <div align="center">
 
 ### 📱 Mobile Development
@@ -64,37 +63,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
-=======
-### 📱 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-
-### 🖥 Backend
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### 🗄 Databases & BaaS
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
->>>>>>> ed157a3451932348f3474e3f43ecec1f1752428b
 
 ---
 
@@ -110,7 +78,6 @@ LLM powered adaptive learning platform with quizzes, personalization, and anti c
 
 ---
 
-<<<<<<< HEAD
 ## 🏢 Work Experience
 
 **Flutter Developer Intern** — *SimpleMinds Technologies, Ahmedabad*  
@@ -134,9 +101,6 @@ _September 2022_
 </div>
 
 ## 📫 Let's Connect!
-=======
-## 📫 Connect With Me
->>>>>>> ed157a3451932348f3474e3f43ecec1f1752428b
 
 <p align="center">
   <a href="https://github.com/HasanRavda">
@@ -152,7 +116,6 @@ _September 2022_
 
 ---
 
-<<<<<<< HEAD
 ## ⚡ GitHub Stats
 
 <p align="center">
@@ -172,6 +135,3 @@ _September 2022_
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50%">
 </div>
 ⭐️ _“Build what matters. Learn every day. Lead with code.”_
-=======
-⭐ Build what matters. Learn every day. Lead with code.
->>>>>>> ed157a3451932348f3474e3f43ecec1f1752428b
