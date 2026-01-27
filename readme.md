@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00ADD8&center=true&vCenter=true&width=940&lines=Hey+there+%F0%9F%91%8B+I'm+Hasan+Ravda;Mobile+Team+Lead+%7C+Flutter+Developer;Fullstack+Enthusiast+%7C+3rd+Year+CE+%40+DDU" alt="Typing SVG" />
 </div>
@@ -10,14 +9,6 @@
 <p align="center">
   💡 Passionate about crafting modern mobile apps and exploring backend systems that power real-world solutions.
 </p>
-=======
-# 👋 Hi, I'm Hasan Ravda  
-
-🚀 Mobile Team Lead | Flutter Developer | Fullstack Enthusiast  
-🎓 3rd Year Computer Engineering @ Dharmsinh Desai University  
-
-I build scalable mobile apps and backend systems with a strong focus on clean architecture, performance, and real world usability.
->>>>>>> ed157a3451932348f3474e3f43ecec1f1752428b
 
 ---
 
