@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00ADD8&center=true&vCenter=true&width=940&lines=Hey+there+%F0%9F%91%8B+I'm+Hasan+Ravda;Mobile+Team+Lead+%7C+Flutter+Developer;Fullstack+Enthusiast+%7C+3rd+Year+CE+%40+DDU" alt="Typing SVG" />
 </div>
@@ -9,22 +10,30 @@
 <p align="center">
   💡 Passionate about crafting modern mobile apps and exploring backend systems that power real-world solutions.
 </p>
+=======
+# 👋 Hi, I'm Hasan Ravda  
+
+🚀 Mobile Team Lead | Flutter Developer | Fullstack Enthusiast  
+🎓 3rd Year Computer Engineering @ Dharmsinh Desai University  
+
+I build scalable mobile apps and backend systems with a strong focus on clean architecture, performance, and real world usability.
+>>>>>>> ed157a3451932348f3474e3f43ecec1f1752428b
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 Pursuing **B.Tech in Computer Engineering (3rd Year)** at **Dharmsinh Desai University**
-- 🔥 Currently **Mobile Team Lead** at **GDG on campus DDU**
-- 💻 Experienced in **Flutter**, **Kotlin**, and **Spring Boot**
-- 🧠 Previously interned as **Flutter Developer** & **Fullstack Developer (Vue.js + Laravel)** at *SimpleMinds Technologies*
-- 🧩 Hands-on experience in **building production-grade apps** with Firebase, REST APIs & scalable architecture
-- 💬 Ask me about **Flutter**, **Spring Boot**, **API integration**, or **App Architecture**
+- Mobile Team Lead at **GDG on Campus DDU**
+- Flutter and Kotlin developer with strong backend exposure
+- Interned as Flutter Developer and Fullstack Developer at **SimpleMinds Technologies**
+- Experience building production grade apps using Firebase and REST APIs
+- Interested in system design, backend scalability, and app architecture
 
 ---
 
 ## ⚙️ Tech Stack
 
+<<<<<<< HEAD
 <div align="center">
 
 ### 📱 Mobile Development
@@ -64,25 +73,53 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
+=======
+### 📱 Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
+### 🖥 Backend
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🗄 Databases & BaaS
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+>>>>>>> ed157a3451932348f3474e3f43ecec1f1752428b
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🧠 Smart Email Generator  
-> AI-powered email response generator built with **Spring Boot** and **Google Gemini API**, integrated as a Gmail extension.
+### 🔹 Smart QR Based Attendance System
+Flutter based QR attendance system with real time validation, and Firebase backend  
+🔗 https://github.com/HasanRavda/QR-Smart-Attendance  
 
-### 📱 Meme Sharing App  
-> Kotlin-based Android app using **Reddit API** & **Kaggle datasets** for categorized meme feeds.
-
-### 🛍️ Flutter E-commerce App  
-> Built using **Flutter + Firebase**, featuring product management, Firestore integration & responsive web/mobile UI.
-
-### 🎓 Moodle-Based LMS  
-> Developed an e-learning platform using **Moodle LMS** with custom online testing & module creation.
+### 🔹 AI Based Learning Platform
+LLM powered adaptive learning platform with quizzes, personalization, and anti cheat mechanisms   
+🔗 https://github.com/hasanravda/AI-Based-Learning-Platform
 
 ---
 
+<<<<<<< HEAD
 ## 🏢 Work Experience
 
 **Flutter Developer Intern** — *SimpleMinds Technologies, Ahmedabad*  
@@ -106,15 +143,25 @@ _September 2022_
 </div>
 
 ## 📫 Let's Connect!
+=======
+## 📫 Connect With Me
+>>>>>>> ed157a3451932348f3474e3f43ecec1f1752428b
 
 <p align="center">
-  <a href="https://github.com/HasanRavda"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/hasanravda"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mhasanravda@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/HasanRavda">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hasanravda">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:mhasanravda@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
 </p>
 
 ---
 
+<<<<<<< HEAD
 ## ⚡ GitHub Stats
 
 <p align="center">
@@ -134,3 +181,6 @@ _September 2022_
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50%">
 </div>
 ⭐️ _“Build what matters. Learn every day. Lead with code.”_
+=======
+⭐ Build what matters. Learn every day. Lead with code.
+>>>>>>> ed157a3451932348f3474e3f43ecec1f1752428b
