@@ -82,23 +82,6 @@ LLM powered adaptive learning platform with quizzes, personalization, and anti c
 
 ---
 
-## 🏢 Work Experience
-
-**Flutter Developer Intern** — *SimpleMinds Technologies, Ahmedabad*  
-_June 2024_  
-> Worked on a live project using Flutter, creating intuitive user interfaces and ensuring seamless UX.
-
-**Fullstack Developer Intern** — *SimpleMinds Technologies, Ahmedabad*  
-_July 2023 - August 2023_  
-> Contributed to both frontend and backend of a web project using **Vue.js** and **Laravel**.
-
-**Moodle Developer Intern** — *Treesha Infotech, Ahmedabad*  
-_September 2022_  
-> Built online learning modules and automated assessments using **Moodle LMS**.
-
-
-
----
 
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
